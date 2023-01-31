@@ -1,0 +1,14 @@
+citation,con,low_con,up_con,description,unit_old
+Milton et al. 2013,1.60E+02,0,3.30E+04,Influenza in patient breath,Virus particles / 30 min of sampling at 130 L/min
+Santarpia et al. 2020,3.40E+04,1.90E+04,4.80E+04,SARS-CoV-2 in patient breath,gc/L
+Santarpia et al. 2020,2.40E+03,0,4.10E+03,SARS-CoV-2 in hospital patient room,gc/L
+Yang et al. 2011,1.10E+04,0,1.60E+04,Influenza A in healthcare center,gc/m^3
+Lednicky et al. 2020,8.70E+02,8.70E+02,8.70E+02,SARS-CoV-2 in healthcare center,gc/L
+Lednicky et al. 2020,3.50E+02,1.10E+01,2.90E+03,Standard bacteria in hospital ducts,pg/m^3
+Yang et al. 2011,1.20E+04,0,1.40E+04,Influenza A in airplane,gc/m^3
+Yang et al. 2011,2.10E+04,0,3.70E+04,Influenza A in daycare,gc/m^3
+Brisebois et al. 2018,8.70E+04,1.70E+04,2.20E+05,Rotavirus in WWTPs,gene copies/m^3
+Brisebois et al. 2018,4.70E+03,0.00E+00,4.70E+03,HAV in WWTPs,gene copies/m^3
+Alonso et al. 2015,5.53E+03,6.00E+02,5.10E+04,PRRSV in pig housings,copies/m^3
+Alonso et al. 2015,1.54E+04,5.50E+02,4.30E+05,Influenza A in pig housings,copies/m^3
+Alonso et al. 2015,2.13E+07,1.30E+06,3.50E+08,PEDV in pig housings,copies/m^3
